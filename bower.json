@@ -15,8 +15,7 @@
         "css/themes/*.min.css"
   ],
   "dependencies": {
-    "get-size": "~1.2.2",
-    "eventEmitter": "~4.2.11"
+    
   },
    "homepage": "https://www.froala.com",
    "keywords": [
